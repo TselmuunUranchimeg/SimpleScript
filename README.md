@@ -1,0 +1,1 @@
+Simple script written in PHP
